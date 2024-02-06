@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Rimil Joseph",
+      "email": "rimiljoy@gmail.com",
+      "phone": "97777776767",
+      "id": 1702359570136,
+      "fav": false
+    },
+    {
+      "name": "M S Joitson ",
+      "email": "msjoitson@gmail.com",
+      "phone": "0]]\\\\\\9188451168",
+      "id": 1702483799038,
+      "fav": false
+    },
+    {
+      "name": "M S Joitson ",
+      "email": "msjoitson@gmail.com",
+      "phone": "09188451168",
+      "id": 1707143942485,
+      "fav": false
+    },
+    {
+      "name": "sree",
+      "email": "sreeraj77@gmail.com",
+      "phone": "9123333333",
+      "id": 1707144247028,
+      "fav": true
+    }
+  ]
+}
